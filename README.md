@@ -7,4 +7,4 @@
 This is a Weather Progressive Web App.
 
 Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+- run ```yarn i && yarn start``` for both client and server side to start the development server
